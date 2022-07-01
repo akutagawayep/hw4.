@@ -1,0 +1,25 @@
+.img{
+     height: auto;
+        padding: 25px 0;
+        margin-left: 25%;
+        padding-top: 4%;
+        line-height: 1.25;
+        transition: 0.5s;
+        position: relative;
+        display: inline;
+    color: darkslategray;
+font-size:medium;
+width: 500px;
+height: 350px;
+}
+.text{
+    color:darkslategray;
+    font: size 20px;
+    width: 100%;
+    display: flex;
+}
+body{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbsniUHm4-DAuC_j_pyzn9cpA0DTlrxME6Jg&usqp=CAU) ;
+background-repeat: no-repeat; 
+background-size: 1800px 1000px, auto, 750px;
+}
